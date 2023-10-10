@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "ProjectElixir-KernelSU-lmi-release",
       "repo": "https://github.com/ZipperCode/projectelixir_kernel_xiaomi_lmi.git",
-      "branch": "Kitsune",
+      "branch": "Kitsune-ksu-kprobe",
       "device": "lmi",
       "defconfig": "lmi_defconfig"
     },
