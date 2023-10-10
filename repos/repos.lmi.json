@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "bxsj-KernelSU-Proton-release",
-      "repo": "https://github.com/ZipperCode/kernel_xiaomi_lmi",
-      "branch": "thirteen",
+      "name": "ProjectElixir-KernelSU-lmi-release",
+      "repo": "https://github.com/ZipperCode/projectelixir_kernel_xiaomi_lmi",
+      "branch": "Kitsune-ksu",
       "device": "lmi",
       "defconfig": "lmi_defconfig"
     },
