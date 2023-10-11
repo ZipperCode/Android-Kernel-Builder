@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "ProjectElixir-KernelSU-lmi-release",
-      "repo": "https://github.com/ZipperCode/projectelixir_kernel_xiaomi_lmi.git",
-      "branch": "Kitsune-ksu-kprobe",
+      "name": "PixelExperience-KernelSU-lmi-release",
+      "repo": "https://github.com/ZipperCode/PixelExperience_kernel_xiaomi_lmi.git",
+      "branch": "thirteen",
       "device": "lmi",
       "defconfig": "lmi_defconfig"
     },
